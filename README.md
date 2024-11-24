@@ -3,16 +3,18 @@
 
 Trang web được xây dựng trên ReactJs và NodeJs(MySQL).
 
-TÍNH NĂNG CHÍNH:
-USER
+**TÍNH NĂNG CHÍNH:**
+
+**USER**
 - Tìm theo khu vực, theo rạp
 - Tìm phim theo tên, thể loại
 - Xem thông tin phim như poster, trailer, description, nhà sản xuất, diễn viên,...
-- Check giá, chọn chỗ ngồi và mua vé
+- Check giá, chọn chỗ ngồi và mua vé(thanh toán bằng momo or zalo pay)
 - Xem thông tin vé và hóa đơn
 - Nhân ưu đãi theo từng mốc thưởng
 - Quản lý thông tin cá nhân
-ADMIN/STAFF
+  
+**ADMIN/STAFF**
 - Thống kê doanh thu ngày, doanh thu tháng, doanh thu phim,...
 - CRUD rạp(tên rạp, địa chỉ rạp) -> CRUD phòng(tên phòng, số ghế)
 - Quản lý rạp, quản lý phim, quản lý đơn hàng, quản lý suất chiếu
